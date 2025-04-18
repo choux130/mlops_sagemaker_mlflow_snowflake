@@ -1,0 +1,7 @@
+name: mlops_demo
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - pycaret==3.3.2
+      - ipykernel
